@@ -1,4 +1,4 @@
-# spotify-playlist-maker
+# Amazon Price Tracker
 
 This script uses Beautiful Soup to notify user if the price of a product on Amazon drops below desired price via email.
 
